@@ -11,5 +11,5 @@ TuSimple/
         label_data_0531.json
         label_data_0601.json
         test_label.json
-    LSTR/
+    LDCT/
 ```
