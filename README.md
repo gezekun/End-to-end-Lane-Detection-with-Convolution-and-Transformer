@@ -1,4 +1,4 @@
-**LDCT**:End-to-end-Lane-Detection-with-Convolution-and-Transformer
+**LDCT**:End to end Lane Detection with Convolution and Transformer
 
 ## Data Preparation
 Download and extract TuSimple train, val and test with annotations from [TuSimple](https://github.com/TuSimple/tusimple-benchmark).
